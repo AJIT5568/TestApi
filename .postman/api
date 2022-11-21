@@ -1,0 +1,13 @@
+id = 7846d44a-4c83-4890-a13d-e374c8073ee4
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
